@@ -1,3 +1,6 @@
+Name: Mariana Gonzalez
+Link: https://dsaw-2026-2.github.io/hw04-ux-tailwind-css-marigonz753-cmyk/
+
 # HW04 — UX + Tailwind CSS
 
 **Week 4 · DSAW · Universidad de La Sabana**
